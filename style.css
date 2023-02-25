@@ -52,8 +52,8 @@ button:disabled {
         /* display: none; */
         object-fit: cover;
         background-size: cover;
-        width: 80%;
-        height: 400px;
+        width: 90%;
+        height: 450px;
         
     }
 }
