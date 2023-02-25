@@ -52,7 +52,7 @@ button:disabled {
         /* display: none; */
         object-fit: cover;
         background-size: cover;
-        width: 60%;
+        width: 80%;
         height: 400px;
         
     }
