@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #f4f4f4;
+    background-color: #f2f2f2;
      /* background-color: black; */
     display: flex;
     justify-content: center;
@@ -42,9 +42,13 @@ button {
     border: none;
     background-color: #4CAF50;
 }
+button:hover {
+    background-color: peru;
+}
 button:disabled {
     background-color: #777;
     cursor: not-allowed;
+    color: #f4f4f4;
 }
 
 @media only screen and (max-width:600px) {
