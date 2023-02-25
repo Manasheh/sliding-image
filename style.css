@@ -55,7 +55,6 @@ button:disabled {
     .container img {
         /* display: none; */
         object-fit: cover;
-        background-size: cover;
         width: 90%;
         height: 450px;
         
